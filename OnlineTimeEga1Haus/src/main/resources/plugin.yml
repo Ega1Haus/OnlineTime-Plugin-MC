@@ -1,0 +1,9 @@
+name: OnlineTimeEga1Haus
+version: '1.0'
+main: de.egalhaus.onlineTimeEga1Haus.OnlineTimeEga1Haus
+api-version: '1.21'
+
+commands:
+  onlinetime:
+    description: "Zeigt deine aktuelle Spielzeit an"
+    usage: "/onlinetime"
